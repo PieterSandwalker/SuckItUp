@@ -15,6 +15,3 @@ To start the game open the 'WindowsNoEditor' folder and run the executable: 'Roo
 
 The Alpha Build version will take you through three maps, one of each game type and one of each location.
 The combination of the two will be random, but you will be able to try each game mode.
-
-To help us gauge your interest and enjoyment of the game, please take the time to fill out our survey:
-https://forms.gle/YSUcneneAHDLaN9d7
